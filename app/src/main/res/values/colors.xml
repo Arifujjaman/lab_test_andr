@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="textc">#C0C0C0</color>
+    <color name="buttb">#800080</color>
+    <color name="butt">#808080</color>
+    <color name="bg">#00474B</color>
 </resources>
